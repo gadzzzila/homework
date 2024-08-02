@@ -1,0 +1,22 @@
+a {
+	text-decoration: none;
+}
+
+.header {
+	background: #c79f49;
+	height: 60px;
+}
+
+.quote {
+	background: #a5d496;
+}
+
+.footer {
+	background: #9213c4;
+	height: 300px;
+	color: #fff;
+}
+
+.link {
+	color: #fff;
+}

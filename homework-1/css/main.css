@@ -1,0 +1,27 @@
+.block-black {
+	background: #443939;
+	color: #fff;
+}
+.taxt {
+	color: #ff00ff;
+}
+.block-red {
+	background: #e04646;
+	height: 100px;
+	width: 100px;
+}
+.block-purple {
+	background: #d063f1;
+	width: 300px;
+}
+
+.inline {
+	background: #9d19c5;
+
+}
+.element {
+	color: #fff;
+}
+
+
+
