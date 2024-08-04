@@ -1,0 +1,32 @@
+div {
+	border-bottom: solid 2px;
+	margin: 25px;
+}
+
+.block-1 {
+	font-family: "Open Sans", sans-serif;
+	font-weight: 300px;
+	font-style: 20px;
+	line-height: 30px;
+
+}
+
+.block-2 {
+text-decoration: 2px line-through;
+}
+
+.block-3 {
+	text-align: center;
+}
+
+.block-4 span {
+	text-decoration: #633190 wavy overline;
+	color: #633190;
+	word-spacing: 30px;
+}
+
+.block-5 {
+	text-decoration: 1px underline double ;
+	letter-spacing: 5px;
+	padding-bottom: 4px;
+}
